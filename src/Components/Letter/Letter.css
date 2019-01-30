@@ -1,0 +1,22 @@
+.keyboard {
+    width: 340px;
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    background-color: gray;
+    padding: 10px;
+    border: 1px solid black;
+    z-index: 1;
+    display: none;
+}
+
+.letters {
+    width: 33px;
+    height: 33px;
+    background-color: green;
+    padding: 5px;
+    border: 2px solid yellow;
+    margin: 1px;
+}

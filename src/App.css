@@ -1,0 +1,110 @@
+.App {
+    height: 100vh;
+    background-image: url('./images/barn3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.intro {
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 15vw;
+    color: yellow;
+    margin: 30px;
+    background-color: green;
+    animation-name: bigger;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+}
+
+.startbtn {
+    width: 315px;
+    height: 60px;
+    color: green;
+    background-color: pink;
+    border: 2px solid green;
+    font-weight: bolder;
+    font-size: 22px;
+    position: absolute;
+    bottom: 150px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    z-index: 1;
+}
+
+.guessdiv {
+    width: 90%;
+    position: absolute;
+    bottom: 150px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    padding: 10px;
+    z-index: 1;
+    text-align: center;
+    display: none;
+}
+
+.wrongdiv {
+    background-color: red;
+    border: 2px solid yellow;
+    height: 90px;
+}
+
+.wrong {
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.gtxt {
+    margin-top: 0px;
+    font-weight: bolder;
+}
+
+.wordbox {
+    width: 90%;
+    position: absolute;
+    bottom: 325px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    padding: 10px;
+    z-index: 1;
+    text-align: center;
+    display: none;
+    background-color: pink;
+    height: 150px;
+    border: 2px solid blue;
+}
+
+.word {
+    font-size: 42px;
+}
+@media only screen and (min-width: 600px) {
+    .intro {
+        font-size: 80px;
+        width: 50%;
+        margin: 30px auto;
+        animation-name: biggerdesk;
+    }
+    .big {
+        width: 50%;
+    }
+}
+
+@keyframes bigger {
+    from {font-size: 0px;}
+    to {font-size: 20vw;}
+}
+
+@keyframes biggerdesk {
+    from {font-size: 0px;}
+    to {font-size: 80px;}
+}
+
+@keyframes biggerdesk2 {
+    from {font-size: 0px;}
+    to {font-size: 30px;}
+}
