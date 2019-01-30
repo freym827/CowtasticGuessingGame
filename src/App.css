@@ -96,7 +96,7 @@
 
 @keyframes bigger {
     from {font-size: 0px;}
-    to {font-size: 20vw;}
+    to {font-size: 15vw;}
 }
 
 @keyframes biggerdesk {
