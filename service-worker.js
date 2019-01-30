@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/CowtasticGuessingGame/precache-manifest.0e99eefdf5db32bc63811eb54d60df19.js"
+  "/CowtasticGuessingGame/precache-manifest.2ff402e90656268308d2e4508a6169c0.js"
 );
 
 workbox.clientsClaim();
