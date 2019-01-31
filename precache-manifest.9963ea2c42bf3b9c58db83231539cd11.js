@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/CowtasticGuessingGame/static/media/hereford.9b2d7107.jpg"
   },
   {
-    "revision": "d0b0d53b0be52a7fc0ba",
-    "url": "/CowtasticGuessingGame/static/css/main.0edfbb3f.chunk.css"
+    "revision": "17344ff594a50c1dfa91",
+    "url": "/CowtasticGuessingGame/static/css/main.310b77c3.chunk.css"
   },
   {
     "revision": "e30957391f541d6e3f0e",
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "/CowtasticGuessingGame/static/media/gelbvieh.f89b30cc.jpg"
   },
   {
-    "revision": "d0b0d53b0be52a7fc0ba",
-    "url": "/CowtasticGuessingGame/static/js/main.d0b0d53b.chunk.js"
+    "revision": "17344ff594a50c1dfa91",
+    "url": "/CowtasticGuessingGame/static/js/main.17344ff5.chunk.js"
   },
   {
     "revision": "e2b5b579492be913ebfbee964f765272",
@@ -104,7 +104,7 @@ self.__precacheManifest = [
     "url": "/CowtasticGuessingGame/static/media/cowspots.4e090f7a.jpg"
   },
   {
-    "revision": "faf162fbcb653d3b82600d2919eb51df",
+    "revision": "ca3f27583da7b893d15511c56323d504",
     "url": "/CowtasticGuessingGame/index.html"
   }
 ];
