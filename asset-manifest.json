@@ -1,7 +1,7 @@
 {
-  "main.css": "/CowtasticGuessingGame/static/css/main.e01f3a36.chunk.css",
-  "main.js": "/CowtasticGuessingGame/static/js/main.61dd8a83.chunk.js",
-  "main.js.map": "/CowtasticGuessingGame/static/js/main.61dd8a83.chunk.js.map",
+  "main.css": "/CowtasticGuessingGame/static/css/main.56138c75.chunk.css",
+  "main.js": "/CowtasticGuessingGame/static/js/main.e8e8d795.chunk.js",
+  "main.js.map": "/CowtasticGuessingGame/static/js/main.e8e8d795.chunk.js.map",
   "static/js/1.e3095739.chunk.js": "/CowtasticGuessingGame/static/js/1.e3095739.chunk.js",
   "static/js/1.e3095739.chunk.js.map": "/CowtasticGuessingGame/static/js/1.e3095739.chunk.js.map",
   "runtime~main.js": "/CowtasticGuessingGame/static/js/runtime~main.20b6f71c.js",
@@ -27,9 +27,9 @@
   "static/media/sadtrombone.mp3": "/CowtasticGuessingGame/static/media/sadtrombone.baad2ca9.mp3",
   "static/media/cowherd.mp3": "/CowtasticGuessingGame/static/media/cowherd.408211d9.mp3",
   "static/media/applause.mp3": "/CowtasticGuessingGame/static/media/applause.c2030d5b.mp3",
-  "static/media/App.css": "/CowtasticGuessingGame/static/media/barn3.59e50007.jpg",
-  "static/css/main.e01f3a36.chunk.css.map": "/CowtasticGuessingGame/static/css/main.e01f3a36.chunk.css.map",
+  "static/media/App.css": "/CowtasticGuessingGame/static/media/cowspots.4e090f7a.jpg",
+  "static/css/main.56138c75.chunk.css.map": "/CowtasticGuessingGame/static/css/main.56138c75.chunk.css.map",
   "index.html": "/CowtasticGuessingGame/index.html",
-  "precache-manifest.2ff402e90656268308d2e4508a6169c0.js": "/CowtasticGuessingGame/precache-manifest.2ff402e90656268308d2e4508a6169c0.js",
+  "precache-manifest.86afaf138ef2a6dfc72bf5fe4f403b2f.js": "/CowtasticGuessingGame/precache-manifest.86afaf138ef2a6dfc72bf5fe4f403b2f.js",
   "service-worker.js": "/CowtasticGuessingGame/service-worker.js"
 }
